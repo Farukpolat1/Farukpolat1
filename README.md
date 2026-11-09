@@ -46,4 +46,5 @@ parameters, and prices are calculated automatically.
 - Teknopark İstanbul brand ambassador for Doğuş University
 
 ## 📫 Reach me
-[LinkedIn](https://www.linkedin.
+[LinkedIn](https://www.linkedin.com/in/faruk-polat-b23398384
+
